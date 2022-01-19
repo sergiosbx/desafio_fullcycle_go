@@ -1,5 +1,5 @@
 # Gerar uma imagem golang
-# quando der Run, printar Full Cycle Rocks
+# quando der Run, printar Code.education Rocks!
 # go trabalha de forma compilada...
 # imagem golang não pode ter mais que 2mbs
 FROM golang:1.17-alpine AS base
